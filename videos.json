@@ -1,0 +1,11 @@
+{
+    "0": {
+        "name": "Пример",
+        "description": "Пример",
+        "path": "vid/video.mp4",
+        "cover": "covers/cover.webp",
+        "category": "Test",
+        "playlist": "Test",
+        "age_rating": 0
+    }
+}
