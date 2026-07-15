@@ -1,0 +1,6 @@
+obsws-python>=1.6.0
+telethon>=1.28.0
+
+# Standart Python libraries
+
+os, time, subprocess, json, datetime, random, asyncio, logging
